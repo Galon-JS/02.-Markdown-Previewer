@@ -1,0 +1,23 @@
+{
+    "git.enableSmartCommit": true,
+    "git.confirmSync": true,
+    "tabnine.experimentalAutoImports": true,
+    "window.zoomLevel": -1,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "sync.gist": "36f98e703388f5f4a619c3893a56168e",
+    "workbench.colorTheme": "codeSTACKr Theme",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.port": 8080,
+    "editor.linkedEditing": true,
+    "liveServer.settings.useBrowserPreview": true,
+    "liveServer.settings.useWebExt": true,
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.host": "localhost",
+    "prettier.tabWidth": 4
+}
